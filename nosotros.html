@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="keywords" content="cervecería, lupulo, hamburguesas">
+    <meta name="descripción" content="Cevecería Artesanal, nacimos como un emprendimiento de cervezas">
+
+    <title>PARDO Brewing Bros. - ¿Quienes Somos?</title>
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="./css/estilos.css">
+    <link rel="stylesheet" href="./css/media_queries.css">
+
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Ultra&display=swap');
+    </style>
+    
+</head>
+<body>
+    <header>
+        <div class="img_box">
+            <a href="index.html" class="header__link__logo"><img src="./images/pardo_l_header.png" class="header__menu__logo" alt="PARDO Brewing Bros. Co."/></a>
+            <div class="menu-wrap">
+                <input type="checkbox" class="toggler">
+                <div class="hamburger"><div></div></div>
+                <div class="menu">
+                    <div>
+                        <div>
+                            <ul>
+                                <li><a href="index.html">Inicio</a></li>
+                                <li><a href="cervezas.html">Cervezas</a></li>
+                                <li><a href="compra.html">Beer Market</a></li>
+                                <li><a href="nosotros.html" class="menu__links--activo">Nosotros</a></li>
+                                <li><a href="contacto.html">Contacto</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>    
+    </header>
+        <div class="bg">
+            <div>
+                <h1 class="h1_title">¿Quienes Somos?</h1>
+            </div>
+            <main class="p_flex_1">
+                <aside class="aside"><img class="img1" src="./images/aside.jpg" width="500px" alt="Salud!" alt=""></aside>
+                <article class="p_flex_2">
+                    <div class="w_text">
+                    <section class="section_quien">
+                        <p>Somos un emprendimiento familiar de elaboración de cerveza 100% artesanal.
+                        <br>
+                        <p>Información adicional
+                            Todas las semanas cocinamos una nueva variedad de cerveza, buscando interactuar con nuevas maltas, nuevos lupulos, nuevas levaduras y nuevas tecnicas, 
+                            para que en cada una de nuestras botellas encuentres siempre algo nuevo para degustar.
+                            Como resultado de cada cocción obtenemos cervezas de producción limitada y con alma propia. Cervezas faciles de beber, con firmeza en sus lupulos pero sin dejar de lado la excelencia de las maltas y de la materia prima de primera calidad que siempre utilizamos.
+                            Por esto queridos amigos, queremos invitarlos a que sean parte de nuestro pequeño mundo de nuevas sensaciones. A que cada vez que beban una de nuestras cervezas sea siempre una primera vez, y a que cada semana puedan degustar un nuevo estilo unico de cerveza.
+                            Salud!</p>
+                        </section>
+                        <div class="section_sign">
+                            <p class="w_text2">Los Hermanos Pardo.</p> 
+                            <p class="w_text3">Home Brew Beer</p>
+                        </div>
+                    </div>
+                </article>
+            </main>
+        </div>
+
+    <!--Script Hamburguer Navbar-->
+    <script type="text/javascript">
+        $(".menu-toggle-btn").click(function(){
+            $(this).toggleClass("fa-times");
+            $(".navigation-menu").toggleClass("active");
+        });
+    </script>
+
+<footer id="main-footer">
+    <div class="footer_text">
+    <p>Copyright &copy; 2021</p>
+    <p>Design by RFG</p></div>
+    <div><a href="index.html" class="header__link__logo2"><img src="./images/h_03.png" class="header__menu__logo2" alt="PARDO Brewing Bros. Co."/></a></div>
+    <div>SOCIAL MEDIA
+        <div class="footer_icons"><a href="https://www.instagram.com/cervezapardo/?hl=es-la" target="_blank"><img src="./images/ig_logo.png" alt="Instagram Pardo" style="width:42px;height:42px;">Instagram</a></div>
+        <div class="footer_icons"><a href="https://www.facebook.com/cervezapardo" target="_blank"><img src="./images/fb_logo.png" alt="Facebook Pardo" style="width:42px;height:42px;">Facebook</a></div>
+    </div>
+</footer>
+</body>
+</html>

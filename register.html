@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="keywords" content="registr, club de la cerveza, cervecería, lupulo, hamburguesas">
+    <meta name="descripción" content="Registrate en el Club de la cerveza">
+
+    <title>PARDO Brewing Bros. - Registro </title>
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="./css/estilos.css">
+    <link rel="stylesheet" href="./css/media_queries.css">
+
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Ultra&display=swap');
+    </style>
+</head>
+<body>
+    <header>
+        <div class="img_box">
+            <a href="index.html" class="header__link__logo"><img src="./images/pardo_l_header.png" class="header__menu__logo" alt="PARDO Brewing Bros. Co."/></a>
+            <div class="menu-wrap">
+                <input type="checkbox" class="toggler">
+                <div class="hamburger"><div></div></div>
+                <div class="menu">
+                    <div>
+                        <div>
+                            <ul>
+                                <li><a href="index.html">Inicio</a></li>
+                                <li><a href="cervezas.html">Cervezas</a></li>
+                                <li><a href="compra.html">Beer Market</a></li>
+                                <li><a href="nosotros.html">Nosotros</a></li>
+                                <li><a href="contacto.html">Contacto</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>    
+    </header>
+        <div class="bg">
+            <div>
+                <h1 class="h1_title">Registrate</h1>
+            </div>
+            
+            <div class="flex-container">
+                <div class="col-5">
+                    <form>
+        <div id="app" style="background-color: rgb(0, 0, 0); padding: 25px; color: rgb(255, 238, 0);"></div>
+        <div></div>
+            <form id="form1">
+                <p>Nombre:<br>
+                <input type="text" id="nombre" value=""></p>
+                <p>Email:<br>
+                <input type="text" id="email" value=""></p>
+
+                <label for="message">Mensaje</label>
+                <textarea rows="5" id="message"></textarea>
+
+                <button id="boton" class="btn-color-hover" type="button" value="Enviar Consulta">Suscribirme</button>
+                <button class="btn-color-hover" type="reset" value="Reseteá borrachin">Reseteá borrachin</button>
+
+            </form>
+            </div>
+
+                <img class="img_form" src="./images/p_01.jpg" alt="Cerveza Pardo en Todos Lados"/>
+            </div>
+            </div>
+        </div>
+
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
+
+    <!--Script Hamburguer Navbar-->
+    <script type="text/javascript">
+        $(".menu-toggle-btn").click(function(){
+            $(this).toggleClass("fa-times");
+            $(".navigation-menu").toggleClass("active");
+        });
+    </script>
+    
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="js/register.js"></script>
+
+    <footer id="main-footer">
+        <div class="footer_text">
+        <p>Copyright &copy; 2021</p>
+        <p>Design by RFG</p></div>
+        <div><a href="index.html" class="header__link__logo2"><img src="./images/h_03.png" class="header__menu__logo2" alt="PARDO Brewing Bros. Co."/></a></div>
+        <div>SOCIAL MEDIA
+            <div class="footer_icons"><a href="https://www.instagram.com/cervezapardo/?hl=es-la" target="_blank"><img src="./images/ig_logo.png" alt="Instagram Pardo" style="width:42px;height:42px;">Instagram</a></div>
+            <div class="footer_icons"><a href="https://www.facebook.com/cervezapardo" target="_blank"><img src="./images/fb_logo.png" alt="Facebook Pardo" style="width:42px;height:42px;">Facebook</a></div>
+        </div>
+    </footer>
+</body>
+</html>

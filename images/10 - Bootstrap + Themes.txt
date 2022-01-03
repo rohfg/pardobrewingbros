@@ -1,0 +1,402 @@
+00:23:30	Leandro Espinosa:	aguante boostrap
+00:23:37	Matías Ignacio Paredes Márquez:	Esta buenisimo! no mas falta algo de practica
+00:23:43	[Tutor] Matías Espinosa:	jajaja, vamooooo
+00:24:06	Germán Aguilar:	Buenas tardes!
+00:24:13	Felipe Lonardi:	Buenas a todos
+00:24:14	Matías Ignacio Paredes Márquez:	Boostrap es la biblia
+00:24:41	[Tutor] Santiago Chinellato:	alguien quiere pensar en grid?
+00:24:55	Perla Rodriguez:	hola buenas tardes
+00:24:57	[Tutora] Karen Simari:	Jaja nadie te hace el aguante con grid santi
+00:24:58	[Tutora] Karen Simari:	jajaja
+00:25:01	Lucrecia Cabello:	que es grid? jajaja
+00:25:07	Leandro Espinosa:	grid? que es eso? un comando de boostrap? jajajajaj
+00:25:07	[Tutor] Franco Carrizo:	aguante grid Santi !!
+00:25:08	Matías Ignacio Paredes Márquez:	ya me olvide de grids jajaja
+00:25:27	[Tutor] Matías Espinosa:	míralo a grid ahí, queriendo hacerse el gracioso xD
+00:25:30	[Tutor] Santiago Chinellato:	ya lo van a extrañar cuando quieran hacer una card ¬¬
+00:25:43	[Tutor] Santiago Chinellato:	bien ahí franco!
+00:25:58	[Tutor] Franco Carrizo:	una galería de imágenes no-simétrica jaja grid al rescate !
+00:26:28	[Tutor] Santiago Chinellato:	ven! franco sabe! hagan como el tutor franco, quieran a grid :)
+00:26:36	Mauro Valenzuela:	yo estoy trantando de instalar visual code todavía 🙄😭 de la primera clase
+00:26:59	[Tutor] Matías Espinosa:	si tan solo dijera pesos....jaja
+00:27:01	Leila Yeffal:	+impuestos :P
+00:27:12	Leila Yeffal:	💔
+00:27:14	Mauro Valenzuela:	+ impuesto pais ,,,, si
+00:27:15	Leandro Espinosa:	50 dolares te compras formosa
+00:27:21	Mauro Valenzuela:	:P
+00:27:21	Felipe Lonardi:	JAJAJA
+00:27:21	Leandro Espinosa:	😅
+00:27:29	Mauro Valenzuela:	jajajaja con gente adentro
+00:27:52	Matías Ignacio Paredes Márquez:	esos precios uff justo en la pobreza xD
+00:29:42	Felipe Lonardi:	https://startbootstrap.com/themes templates gratuitos de bootstrap
+00:29:59	Heidi Colchado:	gracias
+00:30:10	Eric Spahn:	Aaaaahora sí
+00:30:12	Eric Spahn:	Buenas!
+00:30:16	Nicolas Martinez:	gracias santi!
+00:30:23	Nicolas Martinez:	perdón Feli ajja la costumbre jaja
+00:30:38	Felipe Lonardi:	Jajajajajajajaja
+00:31:11	[Tutor]Nicolás Mauna:	si ven una que es paga, y está buenasa, si googlean un toquesin la van a encontrar gratis. Siempre está ese buen hombre que la sube gratis
+00:31:36	Valentin Valles Werchracki:	(guiño guiño)
+00:31:36	[Tutor] Santiago Chinellato:	Felipe no me dejas brillar jajaj
+00:31:45	[Tutor] Matías Espinosa:	https://bootstrapmade.com/
+00:31:48	Heidi Colchado:	jajjjaa
+00:31:49	Felipe Lonardi:	https://www.creative-tim.com/bootstrap-themes/free
+00:31:56	Matías Ignacio Paredes Márquez:	esta peleado xD
+00:32:18	Daniela Grosclaude:	fuaa el feli
+00:32:27	Heidi Colchado:	😜
+00:32:37	Felipe Lonardi:	Vine afilado hoy
+00:32:38	Matías Tillería:	duelo a muerte con enlaces
+00:32:39	[Tutor] Santiago Chinellato:	https://bootstraptaste.com/
+00:32:41	[Tutor] Matías Espinosa:	te vas a sacar correcto o bajo Felipe....cuídate xD
+00:32:48	[Tutor] Santiago Chinellato:	https://www.creative-tim.com/bootstrap-themes/free
+00:32:48	Felipe Lonardi:	Jajajjajajaja
+00:33:00	Felipe Lonardi:	Taarde santi
+00:33:06	[Tutor] Santiago Chinellato:	jajaja
+00:33:14	[Tutor] Santiago Chinellato:	al slack los links
+00:33:22	[Tutor] Santiago Chinellato:	que si no esto se descontrola
+00:33:47	[Tutor] Santiago Chinellato:	ese es el sentimiento de comunidad Felipe !
+00:34:06	Heidi Colchado:	se calman 😂
+00:36:11	[Tutor]Nicolás Mauna:	sii, van a ver jQuery si siguen JavaScript ❤
+00:37:41	Leandro Espinosa:	mas vale q seguimos en JavaScript !
+00:37:47	Leandro Espinosa:	😎
+00:38:03	Eric Spahn:	💪
+00:39:37	[Tutor] Franco Carrizo:	y abrirte 10 publicidades en las pestañas jajaja
+00:40:00	[Tutor] Matías Espinosa:	see...sobretodo cuando queres ver un partido online xD
+00:40:02	[Tutor] Santiago Chinellato:	jajajaajaja
+00:40:18	Nicolas Martinez:	cuevana 3 te abre publicidades por todo jaja
+00:40:36	[Tutor] Santiago Chinellato:	maravillosa idea la de "Lorena te quiere conocer" malditos popups
+00:40:42	Leila Yeffal:	las contraseñas
+00:40:44	Leila Yeffal:	:P
+00:40:46	Nicolas Martinez:	JAJAJA
+00:40:53	[Tutor] Matías Espinosa:	la buena Lorena, nada le gana....
+00:41:15	Daniela Grosclaude:	jajajaajjaja
+00:41:35	Felipe Lonardi:	JAJAJAJA
+00:42:39	Leila Yeffal:	😱
+00:42:41	Matías Ignacio Paredes Márquez:	Que buena magia! :O
+00:42:46	[Tutor] Matías Espinosa:	Esta hermoso....
+00:42:56	Tutora -Karen Simari:	Disculpen, se me murio internet 
+00:43:12	Heidi Colchado:	hola karennn
+00:44:11	(89364) Elias Martin Denegri:	se puede agrandar un poco?
+00:44:27	Heidi Colchado:	no veo nada yo tampoco
+00:44:44	Diego Rodríguez Jabie:	hola?
+00:44:45	Felipe Lonardi:	Se corto?
+00:44:51	Nathalia Mendez:	se congelo la imagen
+00:44:59	[Tutor]Nicolás Mauna:	casi que se cae zoom
+00:45:05	Daniela Grosclaude:	se me corto un segundo tambein
+00:45:11	[Tutor] Matías Espinosa:	Sep...fue fuerte
+00:45:14	Heidi Colchado:	a mi tambien
+00:45:19	Nicolas Martinez:	mi nada
+00:45:45	Matías Ignacio Paredes Márquez:	Disculpen una consulta, que es lo que hace la class row y la class col-md12, quede con la duda con eso
+00:46:16	Nicolas Martinez:	con row esta diciendo que va a ser una fila
+00:46:17	Nicolas Martinez:	y lo otro le das el valor que va ocupar en la fila segun las 12 columnas
+00:46:42	Tutora -Karen Simari:	row conforma una fila y col md 12  que ocupa las 12columnas de la grilla
+00:47:00	Matías Ignacio Paredes Márquez:	aaah comprendo!! gracais chicos
+00:47:07	Matías Ignacio Paredes Márquez:	gracias*
+00:47:49	ramiro becerra:	y como se le pone texto sobre las imágenes del carrusel?
+00:48:09	Lucrecia Cabello:	que facil!!!
+00:48:13	Diego Terranova:	como corren las lineas sin borrar?
+00:48:14	Matías Ignacio Paredes Márquez:	y si quisiera tener mas filas en el row como lo haría? y el md a que se refiere?
+00:48:20	Heidi Colchado:	si que lindo
+00:48:40	Leandro Espinosa:	lo maximo son 12 filas creo mati
+00:48:52	Nicolas Martinez:	https://www.w3schools.com/bootstrap4/bootstrap_carousel.asp
+00:49:00	Nicolas Martinez:	ahi te explica ramiro
+00:49:01	[Tutor] Santiago Chinellato:	otro que me gana de mano jajaja
+00:49:05	[Tutor]Nicolás Mauna:	máxima son 12 porque ya lo establece así bootstrap
+00:49:18	[Tutor] Santiago Chinellato:	tenes un ejemplo rami con texto incluido
+00:49:18	ramiro becerra:	gracias nico
+00:49:25	Leandro Espinosa:	grande nico
+00:49:28	[Tutor]Nicolás Mauna:	el md hace referencia a uno de los breakpoints que los muestra en la documentación de bootstrap. Medium sería la resolución, mas o menos para tablets
+00:49:37	ramiro becerra:	ok santi gracias
+00:49:37	[Tutor] Santiago Chinellato:	les recomiendo antes de aplicar leas la documentacion
+00:49:51	Matías Ignacio Paredes Márquez:	super ! gracias chicos
+00:50:24	(89364) Elias Martin Denegri:	encontré este el otro dia
+00:50:30	Fernando Cagnoli:	Si pones sm después del md pueden tener la misma cantidad de columnas es decir md-4 sm-4?
+00:50:59	Heidi Colchado:	disculpen como se llama la pag que el profe descaraga Bootstrap
+00:51:08	Jose Antonio Ferre Y Zalacain:	como optimizamos las imágenes para no afectara el tiempo de carga de la web?
+00:51:16	Nicolas Martinez:	getbootstrap
+00:51:21	[Tutor] Santiago Chinellato:	https://getbootstrap.com/
+00:51:41	Heidi Colchado:	muchas gracias
+00:51:53	ramiro becerra:	que locura
+00:52:13	[Tutor]Nicolás Mauna:	con md-4 estarías indicándole que, para tablets, ocupa 4 columnas. sm-4 lo mismo
+00:52:27	Jose Antonio Ferre Y Zalacain:	Como optimizamos las imágenes para no afectar  el tiempo de carga de la web?
+00:52:36	ramiro becerra:	esta todo inventado, como en el futboljajaja
+00:52:36	[Tutor]Nicolás Mauna:	y si, ocuparían las mismas columnas tanto para sm como md
+00:52:58	Fernando Cagnoli:	oka
+00:53:12	[Tutor]Nicolás Mauna:	para optimizar el sitio, hay varias herramientas que nos permiten bajar la resolución además de saber bien cuales son los formatos más usados para web
+00:53:28	[Tutor] Santiago Chinellato:	con Photoshop tenes la opción de hacerlo rapido
+00:53:36	ramiro becerra:	en Photoshop pones guardar para web y ya es un gran paso y con dos clicks
+00:53:37	Jose Antonio Ferre Y Zalacain:	Gracias Nico. Algún ej? Asi lo puedo chequear?
+00:53:38	[Tutor] Santiago Chinellato:	para mi es la mejor opcion
+00:54:17	Jose Antonio Ferre Y Zalacain:	Gracias.
+00:54:39	[Tutor]Nicolás Mauna:	post en el foro sobre imágenes: https://plataforma.coderhouse.com/foro/profile/formatos-de-imagen-para-la-web-jpeg-webp-avif-png-gif-y-svg
+00:54:52	Jose Antonio Ferre Y Zalacain:	Excelentre aporta Nico. Un genio!
+00:55:21	Jose Antonio Ferre Y Zalacain:	😎
+00:55:34	[Tutor]Nicolás Mauna:	💪
+00:57:57	[Tutor]Nicolás Mauna:	miren como va anidando los elementos!
+00:58:00	Felipe Lonardi:	El alt forma parte del seo?
+00:58:23	Felipe Lonardi:	el fitz roy en santa cruz
+00:58:27	Jose Antonio Ferre Y Zalacain:	Q buena pregunta!
+00:58:48	[Tutor]Nicolás Mauna:	sip, aporta a SEO
+00:58:49	Matías Ignacio Paredes Márquez:	Buenisimo! :O
+00:59:15	Jose Antonio Ferre Y Zalacain:	el sRC
+00:59:30	Jose Antonio Ferre Y Zalacain:	el src del segundo slide
+01:00:13	Fernando Cagnoli:	de que forma el carousel se pasa automático?
+01:00:21	Jose Antonio Ferre Y Zalacain:	un div quedo huerfano
+01:00:24	Fernando Cagnoli:	sin darle a la flecha
+01:00:26	Jose Antonio Ferre Y Zalacain:	en la primera parte
+01:00:28	[Tutor] Santiago Chinellato:	con una propiedad de bootstrap
+01:00:30	[Tutora] Karen Simari:	es una clase, ya viene hecho asi fer
+01:00:35	[Tutor] Santiago Chinellato:	*clase
+01:00:41	[Tutor]Nicolás Mauna:	está hecho con JavaScript
+01:00:42	[Tutor] Santiago Chinellato:	todo esta en la pagina
+01:00:46	[Tutor]Nicolás Mauna:	para que se pase solo
+01:00:49	Fernando Cagnoli:	genial gracias
+01:00:50	[Tutor] Santiago Chinellato:	lean la documentación es super clara
+01:01:01	Fernando Cagnoli:	porque lo quise probar y no lo encontré el otro día. pero sabiendo eso me fijo
+01:01:21	[Tutor] Matías Espinosa:	carousel-Inner creo Fer
+01:01:24	[Tutor] Santiago Chinellato:	para saber que agregar que sacar dependiendo de las necesidades
+01:01:28	Fernando Cagnoli:	Grax mati
+01:01:52	[Tutor]Nicolás Mauna:	los pibes debuggeando el código me la suben
+01:01:54	Felipe Lonardi:	Se va a derretir rápido el perito moreno en misiones jajajaja
+01:02:02	Mauro Valenzuela:	:P
+01:02:04	[Tutora] Karen Simari:	Jajaja
+01:02:16	Nicolas Martinez:	jajaja
+01:02:21	[Tutor] Matías Espinosa:	Felipe Leonardi, usted es diabólico....
+01:02:21	Jose Antonio Ferre Y Zalacain:	TEAMWORK!!
+01:02:23	Jose Antonio Ferre Y Zalacain:	A TEAM!!
+01:03:30	Mercedes Maggi:	que bieeeeeeeen
+01:04:14	ramiro becerra:	y para que se desplegué solo con hover?
+01:04:48	Leila Yeffal:	jugaron con mis sentimientos fuerte. Saben las llradas que llevo ya co n este curso !!!??? ajajaja
+01:05:10	Felipe Lonardi:	El tema de los colores, por ejemplo rojo para danger, es por "convención"?
+01:05:19	Nicolas Martinez:	yo quise hacer eso en un nav bar, pero la pagina que va a funcionar como dropdown se anula, hay alguna forma de que eso no pase?
+01:05:25	Heidi Colchado:	jajajajjaa yo me estoy quedando pelada no se si por esto o por el covid de haces meses
+01:06:04	[Tutor] Santiago Chinellato:	si es por convención digamos, es la class que decidieron usar los que crearon bts
+01:06:51	[Tutor] Franco Carrizo:	Nico después pásame el código por slack y lo vemos !
+01:06:52	Mauro Valenzuela:	leila yeffal no sos la única que entra en pánico , te acompaño ...
+01:06:59	[Tutor] Santiago Chinellato:	nico podes renombrar algunas clases como lo hizo el profe para que no se pisen los botones de ambos carouseles
+01:07:12	Leila Yeffal:	💪 jajaja
+01:07:12	[Tutor] Santiago Chinellato:	seria cuestión de leer la documentación y ver como hacerlo
+01:07:24	Nicolas Martinez:	oka, gracias!
+01:07:29	Leandro Espinosa:	que buena onda bootstrap
+01:07:49	Matías Ignacio Paredes Márquez:	como podría cambair el color del botón de ese celeste a otro que yo quiera?
+01:08:02	Edmundo Lara:	Bootstrap sustituye todo lo aprendido con flex, box modeling o complementa?
+01:08:06	Matías Ignacio Paredes Márquez:	azul*
+01:08:10	[Tutor] Santiago Chinellato:	le agregas una clase la llamas en el css y cambias el color
+01:08:21	[Tutor]Nicolás Mauna:	si queres usar un color de bootstrap, usas la clase correspondiente. Sino, desde tu css a mano
+01:08:25	[Tutor] Matías Espinosa:	dale inspeccionar Mati y ves en el código donde buscarlo y a que clase pertenece
+01:08:28	Felipe Lonardi:	Background en css
+01:08:35	Matías Ignacio Paredes Márquez:	aah buenisimo pero debería darle un !important?
+01:08:40	Fernando Cagnoli:	pero por ej el top-margin lo puedo poner dentro de la clase como tm- del 1 al 5 no?
+01:08:44	[Tutor] Santiago Chinellato:	si no lo toma al lado de la propiedad poner !important ej:  background: White !important;
+01:08:51	Fernando Cagnoli:	margin-top perdón
+01:08:54	[Tutor] Santiago Chinellato:	depende
+01:09:00	[Tutora] Karen Simari:	Nada sustituye a otra cosa, tiene que aprender a intuir cuando usar una cosa o cuando usar otra
+01:09:01	[Tutor] Santiago Chinellato:	si no lo toma vas a tener que usarlo
+01:09:08	[Tutor] Santiago Chinellato:	primero proba si lo toma
+01:09:10	Matías Ignacio Paredes Márquez:	aaah buenisimo gracias santi
+01:09:41	[Tutor] Santiago Chinellato:	de nada 😄
+01:12:25	Felipe Lonardi:	Podria usarse tipo captcha? o no tiene sentido?
+01:17:45	[Tutor] Santiago Chinellato:	y se podría pero para un captcha tendría que haber un lógica con js, no se que opinan los otros tutores que la tienen clara con js
+01:18:05	Jose Antonio Ferre Y Zalacain:	podemos cambiar el color del budge?
+01:18:12	[Tutor] Matías Espinosa:	si jose
+01:18:15	Jose Antonio Ferre Y Zalacain:	en ves de gris amarillo o rojo?
+01:18:34	Jose Antonio Ferre Y Zalacain:	bg-success? no?
+01:18:42	[Tutor] Santiago Chinellato:	claro
+01:18:53	Jose Antonio Ferre Y Zalacain:	ohhh que rapidez
+01:18:59	Jose Antonio Ferre Y Zalacain:	Me leyeron la mente!!!
+01:19:04	Diego Rodríguez Jabie:	no era grey
+01:19:32	Nicolas Martinez:	si lo quiero de otro color le pongo una clase y lo hago en el css?
+01:19:39	[Tutor] Santiago Chinellato:	salvo un par son poco intuitivos yo tampoco los recuerdo a los nombres
+01:19:44	[Tutor] Santiago Chinellato:	exacto nico
+01:19:52	Nicolas Martinez:	joya
+01:20:24	[Tutora] Karen Simari:	noo todos usamos googleee
+01:20:25	[Tutora] Karen Simari:	jajaj
+01:20:30	[Tutora] Karen Simari:	documentacion todo
+01:21:06	[Tutor] Santiago Chinellato:	nadie les pide ser una enciclopedia andante
+01:21:09	Juan Manuel Fernandez Cozzuol:	imagínate si tuvieras que saber todo de memoria para que te contraten 🤪
+01:21:11	[Tutor]Nicolás Mauna:	Además filtran en la entrevista técnica. Ahí se enteran si sabes o no realmente. La documentación la leemos todos
+01:22:30	[Tutor] Matías Espinosa:	seria un hipócrita el que dice que se acuerda de todo y no busca nada
+01:22:46	Leandro Espinosa:	para algo esta google! para nuestras dudas jajaj
+01:22:47	[Tutor]Nicolás Mauna:	un nerd
+01:22:49	Jose Antonio Ferre Y Zalacain:	Lo mas lindo de la comunidad de desarrollo es la cantidad de colaboradores!!
+01:23:15	Daniela Grosclaude:	1 dia para hacer una web? 😅
+01:23:26	Juan Manuel Fernandez Cozzuol:	dijo una pagina
+01:23:26	Lucrecia Cabello:	quede tmb con ese dato en shock jaja
+01:23:29	Juan Manuel Fernandez Cozzuol:	no una web
+01:23:35	Lucrecia Cabello:	aa bien ese detalle
+01:23:41	Daniela Grosclaude:	ahhhh
+01:23:43	Daniela Grosclaude:	jajajjajaja
+01:23:53	Daniela Grosclaude:	infartada
+01:23:55	[Tutor] Santiago Chinellato:	una web sencillita la podes sacar en una semana
+01:24:05	Juan Manuel Fernandez Cozzuol:	espero que se refiera a eso jaja
+01:24:10	[Tutor]Nicolás Mauna:	si se lo proponen como desafío pueden hacer una web sencilla en 2 días!
+01:24:11	Jose Antonio Ferre Y Zalacain:	una landing?
+01:24:14	[Tutor] Santiago Chinellato:	y tomandote mucho tiempo
+01:24:24	Jose Antonio Ferre Y Zalacain:	cuanto tiempo debería tomar una landing?
+01:24:30	[Tutor] Santiago Chinellato:	todo depende con que se comienza
+01:24:33	[Tutora] Karen Simari:	claro, tomenlo como una jornada completa
+01:24:36	[Tutora] Karen Simari:	jajaj
+01:24:37	[Tutor]Nicolás Mauna:	medio atada con alambre pero funcionando, medio renga
+01:24:46	[Tutor] Santiago Chinellato:	si te pasan los medios y el figma con las medidas y el diseño la haces rapido
+01:24:54	[Tutor] Santiago Chinellato:	si depende de vos el diseño puede tomar mas
+01:24:58	Nicolas Martinez:	perdon mi ginorancia, que seria una landing?
+01:25:03	Jose Antonio Ferre Y Zalacain:	gracias Profes.
+01:25:19	[Tutor] Santiago Chinellato:	paginas que son un solo html
+01:25:25	Daniela Grosclaude:	💟
+01:25:26	[Tutor]Nicolás Mauna:	las landing son páginas con un único html donde muestran todo sobre la empresa
+01:25:39	Nicolas Martinez:	gracias!
+01:26:18	Mauro Valenzuela:	pagina de aterrizaje le dicen no ..tambien
+01:26:46	[Tutor] Matías Espinosa:	si, landing es aterrizaje....
+01:27:05	Matías Ignacio Paredes Márquez:	en esta parte me quede, ignoren xD (recordatorio para ver esta parte de la grabación)
+01:27:07	[Tutor]Nicolás Mauna:	ejemplo: http://www.flatguitars.com/
+01:27:13	Perla Rodriguez:	y murió el CSS ….
+01:27:14	[Tutor] Santiago Chinellato:	bien aceitados y con una dinámica de trabajo buena pueden hacer varias paginas
+01:27:15	Felipe Lonardi:	Perdon, todo esto automáticamente es responsive, no?
+01:27:27	Leandro Espinosa:	nunca muere el css!!
+01:27:41	Perla Rodriguez:	pues ya lo extraño
+01:27:41	[Tutor]Nicolás Mauna:	si, muchos componentes vienen ya responsive
+01:27:43	Leandro Espinosa:	supuestamente boostrap es responsive asi que si
+01:28:47	[Tutor] Santiago Chinellato:	chicos esto no reemplaza nada, es una forma de hacer cosas de manera mas sencilla por que muchas cosas están prefabricadas,  pero el css es su mano derecha para dar a SU pagina SU estilo
+01:29:51	Juan Manuel Fernandez Cozzuol:	pero para eso se necesita estilo
+01:29:55	Juan Manuel Fernandez Cozzuol:	no hice ese curso (?)
+01:30:02	ramiro becerra:	esta mal usar varios !important?
+01:30:06	Diego Rodríguez Jabie:	Sí
+01:30:21	[Tutor] Matías Espinosa:	es una mala practica rami
+01:30:41	[Tutor] Santiago Chinellato:	jajajaj lo generas con practica y mirando paginas que te gusten.
+01:40:51	Nicolas Martinez:	la clase active que haria?
+01:41:21	ramiro becerra:	pone en gris la pagina en la que estas
+01:41:49	ramiro becerra:	lo cambias de acuerdo a la pagina que estas
+01:42:05	[Tutor] Matías Espinosa:	si estuvieras en otra pagina, deberías colocar el active en esa otra pagina
+01:42:13	[Tutor] Matías Espinosa:	Me gano Ramiro
+01:42:27	Nicolas Martinez:	ah perfecto, pense que lo hacia automatico eso, gracias
+01:42:34	ramiro becerra:	jaja
+01:42:41	ramiro becerra:	suma o resta ?
+01:42:41	[Tutor] Matías Espinosa:	¬¬
+01:42:42	ramiro becerra:	:P
+01:42:51	Felipe Lonardi:	Sumado a lo que dijo Nico, no se puede automatizar?
+01:43:00	[Tutor]Nicolás Mauna:	lo verán con JavaScript
+01:43:03	[Tutor]Nicolás Mauna:	suspenso
+01:43:22	[Tutor] Matías Espinosa:	😱
+01:43:29	ramiro becerra:	:O
+01:43:37	Daniela Grosclaude:	chan chann
+01:45:09	[Tutor]Nicolás Mauna:	sass ❤❤❤❤
+01:45:20	ramiro becerra:	que será eso
+01:45:20	ramiro becerra:	jaja
+01:45:39	[Tutor]Nicolás Mauna:	lo vemos en la clase que viene... suspenso (?)
+01:45:40	[Tutor] Santiago Chinellato:	ya lo verán....
+01:45:42	Daniela Grosclaude:	Jorge suspenso
+01:45:44	[Tutor] Matías Espinosa:	Solo digo: prepárense...
+01:45:52	Leila Yeffal:	jajajaj
+01:45:55	Leandro Espinosa:	oh rayos\
+01:45:56	Profesor CoderHouse DW:	https://startbootstrap.com/themes
+01:46:02	Lucrecia Cabello:	jaja miedo
+01:46:03	ramiro becerra:	siempre ready nunca inready
+01:46:05	[Tutor]Nicolás Mauna:	prepárense para leer errores en rojo en sus consolas :D
+01:46:12	Lucrecia Cabello:	me copa!!
+01:46:14	[Tutor] Santiago Chinellato:	no era la banda de miguel mateos.... ah esa era zas
+01:46:26	[Tutor] Santiago Chinellato:	(se me cayo la libreta de enrolamiento)
+01:46:31	Daniela Grosclaude:	jajajaja
+01:46:34	[Tutor] Matías Espinosa:	preparense para escribir comandos especificos
+01:46:50	Felipe Lonardi:	Sas el ct del counter 1.6?
+01:47:09	Mauro Valenzuela:	pensé lo mismo , con la mascara :P
+01:47:21	ramiro becerra:	jajaj
+01:47:25	ramiro becerra:	el de la mascara
+01:47:34	Santiago Fornero:	quien crea el sv (?
+01:48:11	[Tutor] Matías Espinosa:	Datito de colorsito pambicito: puede armar un lindo portfolio con themes de btsp
+01:48:29	[Tutor] Matías Espinosa:	pueden*
+01:48:31	Lucrecia Cabello:	estan barbaros!
+01:48:32	Mauro Valenzuela:	seeeeeeeeeee
+01:48:36	[Tutor] Franco Carrizo:	bello !
+01:49:12	[Tutor] Matías Espinosa:	quieren ver cuantas líneas hay para revisar? jaja
+01:49:14	[Tutor] Matías Espinosa:	mirenn
+01:49:17	Daniela Grosclaude:	que divertido  como cuando modificabas el Tumblr enhtml
+01:49:18	Mauro Valenzuela:	tras mis largos años de experiencia ….. themes de btsp
+01:49:27	Heidi Colchado:	lo agarro y lo destruyo en dos segundos jajjajaj
+01:49:37	Lucrecia Cabello:	jajaajjaja
+01:49:56	[Tutor] Matías Espinosa:	Heidi ssj
+01:50:03	Felipe Lonardi:	JAJAJAJAJA
+01:50:20	[Tutor]Nicolás Mauna:	spoiler:
+01:50:31	[Tutor] Santiago Chinellato:	Heidi querida todo rompemos todo cuando empezamos no te preocupes
+01:50:56	[Tutor] Santiago Chinellato:	gracias las copias de seguridad no tuve que comenzar de nuevo mi primer proyecto
+01:50:57	[Tutor]Nicolás Mauna:	hacen una entrega con un theme, díganle adios al curso 🤣🤣
+01:51:16	Mauro Valenzuela:	lo pensé , pero no me anime :(
+01:51:24	Heidi Colchado:	😍😜
+01:51:41	Perla Rodriguez:	JEJEJEJE
+01:51:45	Mauro Valenzuela:	mas despacio cerebrito ….!
+01:51:54	Perla Rodriguez:	NO DES IDEAS   jejeje
+01:52:17	[Tutor] Santiago Chinellato:	cuando tengan que modificar un template  EL MEJOR AMIGO ES EL INSPECTOR DEL NAVEGADOR
+01:52:43	[Tutor] Santiago Chinellato:	aprendan a usarlo
+01:52:59	Mauro Valenzuela:	yo lo uso pero no entiendo nada , solo f12
+01:53:03	Mauro Valenzuela:	después no le pego una
+01:53:26	Mauro Valenzuela:	esta todo como resumido y no te muestra nada
+01:53:47	Daniela Grosclaude:	qque onda el validador de w3c ? sirve?
+01:53:53	[Tutor] Santiago Chinellato:	https://www.youtube.com/watch?v=AnMfNGZ9DwY
+01:53:59	[Tutor] Santiago Chinellato:	mauro
+01:54:17	[Tutor]Nicolás Mauna:	estos themes les serviría para cuando un cliente quiere una demo muy apurado y usamos uno de estos. Modificamos los nombres por el de la empresa, alguna que otra cosita, y luego tienen una demo de como se vería la página. Luego van a tener que modificar absolutamente todo el código porque si suben un theme a internet, el SEO va a ser malísimo y va a tener malos resultados en posicionamientos
+01:54:57	Lucrecia Cabello:	clarisimo!
+01:55:25	Mauro Valenzuela:	gracias @santiago chinellato , ya lo agregue a favoritos
+01:56:38	[Tutor] Santiago Chinellato:	de nada!
+01:57:50	[Tutor] Santiago Chinellato:	es un rompecabezas en algunos momentos
+02:01:08	Jose Antonio Ferre Y Zalacain:	chicos tengo que salir.. puedo psar presente?
+02:02:01	[Tutora] Karen Simari:	Creo que ya pasaron asistencia
+02:02:25	[Tutor] Santiago Chinellato:	por mi lado ya tomé asistencia
+02:03:12	Nathalia Mendez:	A mi ya me llego la asistencia
+02:03:49	ramiro becerra:	hol
+02:08:09	Mauro Valenzuela:	yo , me voy a ofrecer paginas web …… con esta clase ya tengo el pan para mi hijo :P
+02:08:34	Leandro Espinosa:	yo tengo el live server
+02:18:42	Diego Terranova:	las reglas para el cambio de posición de cada fila es automatica con bootstrap?
+02:19:45	[Tutor]Nicolás Mauna:	eso lo harías con grid system. Eso de col-md-4, col-sm-12 por ejemplo
+02:19:57	[Tutor]Nicolás Mauna:	Si es que no entendí mal tu pregunta, diego
+02:21:31	Diego Terranova:	si, ahi lo esta diciendo tambien. esto es lo que mas dudas me esta generando, no lo puedo hacer funcionar como yo quiero
+02:22:41	Diego Terranova:	se darle los estilos que quiero con X tamaño de pantalla, pero no logro hacer que se vea de esta forma, colocando una fila debajo de la otra cuando normalmente serian 3 juntas
+02:23:32	[Tutor]Nicolás Mauna:	acomodaste los elementos con flex?
+02:24:21	Mauro Valenzuela:	¨la clase donde se aplica en body ? esa es una gran duda mia
+02:24:33	Felipe Lonardi:	En grid se debería reacomodar cada grilla por cada media query?
+02:24:49	Diego Terranova:	lo hice con grid, eso seguro
+02:24:53	[Tutora] Karen Simari:	Si cambiara la distribucion si
+02:25:09	[Tutor]Nicolás Mauna:	grid es cero responsive. Por ende, con cada mediaQuery deben cambiar la distribución
+02:25:18	Felipe Lonardi:	Con razon
+02:25:20	Fernando Cagnoli:	pero por caja?
+02:25:22	Fernando Cagnoli:	Nico
+02:25:51	[Tutor]Nicolás Mauna:	nop, modificas la forma con la que acomodaste el grid. Si usaste grid-template-areas, modificas eso
+02:26:14	[Tutor]Nicolás Mauna:	si le diste a cada elemento dentro de grid, la propiedad grid-colum-start y grid-column-end, por ejemplo, deberías modificar eso
+02:28:28	Mauro Valenzuela:	no entiendo una mona
+02:28:30	Fernando Cagnoli:	y si hay una imagen al lado de la otra en columnas y queres ponerlas  en una sola columna para mobile? cambias los template areas también en media query?
+02:28:31	Mauro Valenzuela:	:(
+02:29:00	[Tutora] Karen Simari:	Que es lo que no entendes de clases Muaro?
+02:29:34	[Tutor]Nicolás Mauna:	Claro fer, además de cambiar el grid-template-areas, cambias la cantidad de columnas y filas
+02:29:40	Mauro Valenzuela:	el media queries , donde aplico la clase... lo que yo escribo en el css
+02:29:55	Mauro Valenzuela:	lo aplique por todos lados y no se mueve
+02:30:15	[Tutora] Karen Simari:	Vos a una clase que ya usaste, le cambias las propiedades dentro del media query
+02:30:32	Diego Terranova:	yo use el grid-template-areas,  lo mifique con las columnas y filas que quiero mostrar al cambiar la resolucion pero no logro hacerlo andar, algun error debo tener en como detalle la vista.
+Quizas en el after lo podemos ver mañana 
+02:30:40	[Tutor]Nicolás Mauna:	recuerden que, en el head de los HTML, siempre tiene que estar esta etiqueta: <meta name="viewport" content="width=device-width, initial-scale=1.0">Sino, no funcionan las mediaquery
+02:31:12	[Tutora] Karen Simari:	por ejemplo, si tenes un menu con flex direction row, cuando se achique tu pantalla le pdoes cambiar el flex direction a column
+02:31:27	[Tutora] Karen Simari:	dentro de media query, volviendo a llamar a la clase del menu
+02:31:36	Perla Rodriguez:	como se llama la pagina para medir las diferentes pantallas (resoluciones) laptop. cel ….
+02:31:44	Felipe Lonardi:	Karen pero eso no te evita el reacomodo de la grilla, no?
+02:32:28	[Tutora] Karen Simari:	mm no deberia, todo depende siempre de como lo tengan armado. Yo en este caso solo di ejemplo con flex
+02:32:51	[Tutor] Matías Espinosa:	no, porque solo se activa cuando se detecta otro tipo de pantalla Feli
+02:33:15	[Tutor] Matías Espinosa:	si es que entendí bien tu pregunta...
+02:33:56	Mauro Valenzuela:	hay veces que no se para donde salir , este caso es uno 😣
+02:34:08	Felipe Lonardi:	Perfecto Mati
+02:35:44	[Tutor] Franco Carrizo:	Perla ! puedes guiarte un poco de cómo maneja boostrap esas resoluciones.https://getbootstrap.com/docs/5.0/layout/breakpoints/ x-small sería celular y extra large ya una pantalla más allá del HD
+02:38:02	Daniela Grosclaude:	gracias professss!!
+02:38:49	Rodrigo Funes Gez:	gracias! Si dale
+02:38:59	Nayely Vergara:	Si gracias :)
+02:39:00	Gaston Lavarra Kenny:	Perfecto!
+02:39:01	Carola Cimini:	si buenisimo
+02:39:05	Nathalia Mendez:	Gracias Javi!
+02:39:22	Gaston Lavarra Kenny:	Mañana lo vemos, gracias!
+02:39:39	[Tutor] Matías Espinosa:	esta muy buena
+02:40:22	Jorge Caballero:	Gracias, nos vemos mañana!
+02:40:35	Oscar Luis Pereyra:	Gracias hasta mañana !!!
+02:40:58	Leandro Wagner:	Muchas Gracias, Buenas noches
+02:40:59	Mauro Valenzuela:	se podrá mañanar tipo receta de cocina ver media queries
+02:40:59	Adriel Alegre:	Muchas gracias profe, buenas noches
+02:40:59	Andrea Poblete:	Gracias por la clase! hasta Mañana!!
+02:41:01	Diego Terranova:	bye
+02:41:02	Nayely Vergara:	Gracias Javi!
+02:41:04	Matías Tillería:	hasta luego
+02:41:04	Juan Manuel Fernandez Cozzuol:	gracias
+02:41:10	Francisco Flores:	adios

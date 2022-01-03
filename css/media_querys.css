@@ -1,0 +1,110 @@
+
+/* Smartphones (landscape) ----------- */
+@media only screen and (min-width : 321px) and (max-device-width : 480px) {
+h1 {font-size: 20px}
+h4 {font-size:0.7em;}
+p {font-size: 0.3em;}
+.h1_title {
+    font-family: Ultra;
+    color: rgb(255, 221, 110);
+    font-size: 25px;}
+.p_form {
+    font-family: Bebas Neue;
+    color: rgb(255, 192, 98);
+    padding-top: 50px;
+    font-size: 22px;}
+.input_form {height: 30px;}
+button, input, label, select, textarea, option {
+    font-size: 18px;
+}
+}
+
+
+/* Smartphones (portrait) ----------- */
+@media only screen and (max-width : 320px) {
+/* Styles */
+h1 {font-size: 20px}
+h4 {font-size:0.7em;}
+p {font-size: 0.3em;}
+}
+@media only screen and (max-width: 700px) {
+h1 {font-size: 20px; }
+h4 {font-size:1em}
+p {font-size: 1em}
+.intro li {font-size: 1em;}
+}
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+h1 {font-size: 22px}
+h4 {font-size:1em}
+.h1_title {
+    font-family: Ultra;
+    color: rgb(255, 221, 110);
+    font-size: 25px;}
+.p_form {
+    font-family: Bebas Neue;
+    color: rgb(255, 192, 98);
+    padding-top: 50px;
+    font-size: 22px;}
+.input_form {height: 30px;}
+button, input, label, select, textarea, option {
+    font-size: 18px;
+}
+}
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1224px) {
+h1 {font-size: 22px}
+h4 {font-size:1em}
+}
+
+/* iPads (landscape) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
+h1 {font-size: 22px}
+h4 {font-size:1em}
+p {font-size: 1em}
+}
+
+
+/* iPads (portrait) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
+h1 {font-size: 20px}
+h2 {font-size:1em}
+
+/* Styles */
+}
+@media only screen and (min-width : 724px) and (max-width: 1260px){
+h1 {font-size:20px}
+h2 {font-size:1em}
+}
+
+
+@media only screen and (max-width : 480px) {
+    .h1_title {
+        font-family: Ultra;
+        color: rgb(255, 221, 110);
+        font-size: 25px;
+    }
+}
+
+@media only screen and (max-width : 480px) {
+    .h1_title {
+        font-family: Ultra;
+        color: rgb(255, 221, 110);
+        font-size: 25px;}
+    .p_form {
+        font-family: Bebas Neue;
+        color: rgb(255, 192, 98);
+        padding-top: 50px;
+        font-size: 22px;}
+    .input_form {height: 30px;}
+    button, input, label, select, textarea, option {
+        font-size: 18px;
+    }
+}
+
+@media screen and (min-width : 480px) and (max-width: 1200px) {
+    .col-md-4 {
+        width: 100%;
+    }
+}

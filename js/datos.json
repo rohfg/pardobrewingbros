@@ -1,0 +1,6 @@
+[
+    {"id":1, "nombre":"Prohibition Lager", "imagen":"./images/prohibition_lager.jpg", "descripcion":["Cerveza rubia, poco lupulada, liviana"], "precio":"$350"},
+    {"id":2, "nombre":"Roto para Descocido", "imagen":"./images/roto_2.jpg", "descripcion":["Cerveza roja, citrica, refrescante"], "precio":"$350"},
+    {"id":3, "nombre":"Vienna Lager", "imagen":"./images/vienna_lager.jpg", "descripcion":["Cerveza rubia, liviana, refrescante"], "precio":"$380"},
+    {"id":4, "nombre":"Sueños Revoltosos", "imagen":"./images/sueños.jpg", "descripcion":["Cerveza de frambuesa poco amargor"], "precio":"$360"}
+]
