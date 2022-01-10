@@ -40,8 +40,7 @@ window.onload = function () {
             id: 8,
             nombre: 'APA Flight Simulator',
             precio: 499
-        },
-        {
+        },        {
             id: 9,
             nombre: 'English IPA',
             precio: 420
